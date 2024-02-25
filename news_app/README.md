@@ -4,7 +4,7 @@
 # Search feature is also implemented in this application.
 # It is built using flutter.
 
-[Click here to download .apk file of the application](https://drive.google.com/file/d/1C9q4oG-0vGPhQNN8TOHBTzqV-xgRu2bK/view?usp=drivesdk)
+[Click here to download .apk file of the application](https://drive.google.com/file/d/1Citoq1TBeG_8vkGRL4aWliknJik47sv6/view?usp=drivesdk)
 
 # Preview of Application:
 
